@@ -1,0 +1,16 @@
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\firstapp.exe
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\firstapp.deps.json
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.json
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.dev.json
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\firstapp.dll
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\ref\firstapp.dll
+C:\Users\19712\Desktop\dayOne\firstapp\bin\Debug\net5.0\firstapp.pdb
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.csprojAssemblyReference.cache
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfoInputs.cache
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfo.cs
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.dll
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\ref\firstapp.dll
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.pdb
+C:\Users\19712\Desktop\dayOne\firstapp\obj\Debug\net5.0\firstapp.genruntimeconfig.cache

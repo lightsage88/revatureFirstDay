@@ -1,0 +1,16 @@
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\trainingAPP.exe
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\trainingAPP.deps.json
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\trainingAPP.runtimeconfig.json
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\trainingAPP.runtimeconfig.dev.json
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\trainingAPP.dll
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\ref\trainingAPP.dll
+C:\Users\19712\Desktop\dayOne\trainingAPP\bin\Debug\net5.0\trainingAPP.pdb
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.csprojAssemblyReference.cache
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.AssemblyInfoInputs.cache
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.AssemblyInfo.cs
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.csproj.CoreCompileInputs.cache
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.dll
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\ref\trainingAPP.dll
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.pdb
+C:\Users\19712\Desktop\dayOne\trainingAPP\obj\Debug\net5.0\trainingAPP.genruntimeconfig.cache
